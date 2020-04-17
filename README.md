@@ -9,4 +9,4 @@ Web Project based on the use of HTML and CSS.  The project shows how to use desi
 
 ![Turtle Card](https://github.com/anferebu/Turtle-Card/blob/master/Animal%20Trading%20Card.jpg)
 
-Author: Andrés R. Bucheli
+# Author: Andrés R. Bucheli
